@@ -45,7 +45,7 @@ Procedure for Handling Harassment
 ---------------------------------
 
 - [Attendee Procedure for incident handling](https://github.com/nickelcityruby/code-of-conduct/blob/master/attendee_procedure_for_incident_handling.md)
-- [Staff Procedure for incident handling](https://github.com/nickelcityruby/code-of-conduct/blob/master/staff_procedure_for_incident_handling)
+- [Staff Procedure for incident handling](https://github.com/nickelcityruby/code-of-conduct/blob/master/staff_procedure_for_incident_handling.md)
 
 License
 -------
