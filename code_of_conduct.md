@@ -37,6 +37,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If the matter is especially urgent, please call/contact any of these individuals:
 
+- Amanda Quaranto at +1 (814) 746-0478
 - Nick Quaranto at +1 (716) 200-3538
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
