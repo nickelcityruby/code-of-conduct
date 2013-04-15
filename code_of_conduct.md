@@ -42,9 +42,10 @@ If the matter is especially urgent, please call/contact any of these individuals
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 Procedure for Handling Harassment
-------------------------------------------
-- [Attendee Procedure for incident handling](/2013/about/code-of-conduct/harassment-incidents/)
-- [Staff Procedure for incident handling](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/)
+---------------------------------
+
+- [Attendee Procedure for incident handling](https://github.com/nickelcityruby/code-of-conduct/blob/master/attendee_procedure_for_incident_handling.md)
+- [Staff Procedure for incident handling](https://github.com/nickelcityruby/code-of-conduct/blob/master/staff_procedure_for_incident_handling)
 
 License
 -------
