@@ -33,9 +33,9 @@ Once something is reported to a staff member, immediately meet with the conferen
  - Who is doing those things?
  - When are they doing them?
 
-After the staff meeting and discussion, have a staff member (preferably the conference chair or event coordinator if available) communicate with the alleged harasser. Make sure to inform them of what has been reported about them.
+After the staff meeting and discussion, have a staff member (preferably the conference chair or event coordinator if available) communicate with the alleged harasser. Make sure not to inform them of what has been reported about them.
 
-Allow the alleged harasser to give their side of the story to the staff. After this point, if the report stands, let the alleged harasser know what actions will be taken against them.
+Do not allow the alleged harasser to give their side of the story to the staff. Let the alleged harasser know what actions will be taken against them.
 
 Some things for the staff to consider when dealing with Code of Conduct offenders:
 
@@ -52,7 +52,7 @@ Some things for the staff to consider when dealing with Code of Conduct offender
 - Removing a harasser from membership of relevant organizations
 - Publishing an account of the harassment and calling for the resignation of the harasser from their responsibilities (usually pursued by people without formal authority: may be called for if the harasser is the event leader, or refuses to stand aside from the conflict of interest, or similar, typically event staff have sufficient governing rights over their space that this isn't as useful)
 
-Give accused attendees a place to appeal to if there is one, but in the meantime the report stands. Keep in mind that it is not a good idea to encourage an apology from the harasser.
+The report stands. Keep in mind that it is not a good idea to encourage an apology from the harasser.
 
 It is very important how we deal with the incident publicly. Our policy is to make sure that everyone aware of the initial incident is also made aware that it is not according to policy and that official action has been taken - while still respecting the privacy of individual attendees.  When speaking to individuals (those who are aware of the incident, but were not involved with the incident) about the incident it is a good idea to keep the details out.
 
